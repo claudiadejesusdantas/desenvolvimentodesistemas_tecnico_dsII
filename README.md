@@ -62,18 +62,64 @@
   <br>
 A ferramenta utilizada no módulo para ver o código funcionando será o <a href="https://usbwebserver.yura.mk.ua/" target="_blank"> USBWebServer8 </a> onde não precisa de instalação na máquina, é como um pendrive virtual.
 
-<h3 style="color:red; text-align:center"> Instruções </h3>
+<h3 style=" text-align:center"> Instruções </h3>
 
 * Realize o download da pasta compactada, extraia os arquivos.
 * Instale e escolha a linguagem.
 * Nas guias Apache e Mysql deverão aparece duas bolinhas verdes indicando o funcionamento adequado dos programas.
 
 
-<h3 style="color:red; text-align:center"> Informações Importantes: </h3>
+<h3 style=" text-align:center"> Informações Importantes: </h3>
 
 * Todos os arquivos deverão ser salvos na pasta **root**.
 *  Nunca utilize caracteres especiais e espaços em branco para nomear arquivos.
 * Abra o arquivo no seu navegador clicando em ```localhost``` e em seguida coloque o caminho, exemplo: ```localhost/Agenda5/ola.php```.
+
+
+<h2  style="color:red; text-align:center"> Atividade da Semana</h2>
+<h2>Questionário</h2>
+
+### 💻Questão 1 
+Zeca ao executar os seguintes comandos:
+
+```php
+< ? php
+	echo "Olá"
+	echo "Zeca";
+? >
+```
+
+Apresentou o seguinte Erro:
+
+```
+  Parse error: syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:Users...... on line 3;
+
+```
+
+Qual das alternativas indica o que Zeca errou em sua codificação.
+
+### 💻Questão 02
+
+O comando "echo" na linguagem de programação PHP, tem qual função:
+
+### 💻Questão 03
+
+Zeca ao implementar em php os seguintes comandos:
+
+```php
+< ? php
+	echo "Zeca da Silva";
+	// echo "Estudante";
+? >
+```
+
+### 💻Questão 04
+
+Os delimitadores para indicar ao servidor onde se iniciam e se encerram os códigos PHP são:
+
+### 💻Questão 05
+
+Quando programamos em PHP quem é o responsável pela interpretação dos códigos:
 
 </div>
 
