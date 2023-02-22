@@ -26,7 +26,7 @@
 
 
 <div id='agenda1'>
-  <h2  style="color:orange; text-align:center">Agenda 1</h2>
+  <h2  style="color:red; text-align:center">Agenda 1</h2>
   <h3> Resumo </h3>
 <ul>
   <li>
@@ -58,18 +58,18 @@
 <br>
 
 <div id='usbwebserver8' >
-  <h2  style="color:orange; text-align:center"> USB Web Server 8 </h2>
+  <h2  style="color:red; text-align:center"> USB Web Server 8 </h2>
   <br>
 A ferramenta utilizada no módulo para ver o código funcionando será o <a href="https://usbwebserver.yura.mk.ua/" target="_blank"> USBWebServer8 </a> onde não precisa de instalação na máquina, é como um pendrive virtual.
 
-<h3 style="color:orange; text-align:center"> Instruções </h3>
+<h3 style="color:red; text-align:center"> Instruções </h3>
 
 * Realize o download da pasta compactada, extraia os arquivos.
 * Instale e escolha a linguagem.
 * Nas guias Apache e Mysql deverão aparece duas bolinhas verdes indicando o funcionamento adequado dos programas.
 
 
-<h3 style="color:orange; text-align:center"> Informações Importantes: </h3>
+<h3 style="color:red; text-align:center"> Informações Importantes: </h3>
 
 * Todos os arquivos deverão ser salvos na pasta **root**.
 *  Nunca utilize caracteres especiais e espaços em branco para nomear arquivos.
@@ -80,19 +80,17 @@ A ferramenta utilizada no módulo para ver o código funcionando será o <a href
 ____________
 
 
-
 <div id='agenda2'>
-  <h2  style="color:orange; text-align:center">Agenda 2</h2>
+  <h2  style="color:grey; text-align:center">Agenda 2</h2>
   <p>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  </p>
+  
 
 </div>
 
 ___________
 
 <div id='agenda3'>
-  <h2  style="color:orange; text-align:center">Agenda 3</h2>
+  <h2  style="color:red; text-align:center">Agenda 3</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -102,7 +100,7 @@ ___________
 ___________
 
 <div id='agenda4'>
-  <h2  style="color:orange; text-align:center">Agenda 4</h2>
+  <h2  style="color:grey; text-align:center">Agenda 4</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -112,7 +110,7 @@ ___________
 ___________
 
 <div id='agenda5'>
-  <h2  style="color:orange; text-align:center">Agenda 5</h2>
+  <h2  style="color:red; text-align:center">Agenda 5</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -122,7 +120,7 @@ ___________
 ___________
 
 <div id='agenda6'>
-  <h2  style="color:orange; text-align:center">Agenda 6</h2>
+  <h2  style="color:grey; text-align:center">Agenda 6</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -132,7 +130,7 @@ ___________
 ___________
 
 <div id='agenda7'>
-  <h2  style="color:orange; text-align:center">Agenda 7</h2>
+  <h2  style="color:red; text-align:center">Agenda 7</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -142,7 +140,7 @@ ___________
 ___________
 
 <div id='agenda8'>
-  <h2  style="color:orange; text-align:center">Agenda 8</h2>
+  <h2  style="color:grey; text-align:center">Agenda 8</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -152,7 +150,7 @@ ___________
 ___________
 
 <div id='agenda9'>
-  <h2  style="color:orange; text-align:center">Agenda 9</h2>
+  <h2  style="color:red; text-align:center">Agenda 9</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -162,7 +160,7 @@ ___________
 ___________
 
 <div id='agenda10'>
-  <h2  style="color:orange; text-align:center">Agenda 10</h2>
+  <h2  style="color:grey; text-align:center">Agenda 10</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -172,7 +170,7 @@ ___________
 ___________
 
 <div id='agenda11'>
-  <h2  style="color:orange; text-align:center">Agenda 11</h2>
+  <h2  style="color:red; text-align:center">Agenda 11</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -182,7 +180,7 @@ ___________
 ___________
 
 <div id='agenda12'>
-  <h2  style="color:orange; text-align:center">Agenda 12</h2>
+  <h2  style="color:grey; text-align:center">Agenda 12</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -192,7 +190,7 @@ ___________
 ___________
 
 <div id='agenda13'>
-  <h2  style="color:orange; text-align:center">Agenda 13</h2>
+  <h2  style="color:red; text-align:center">Agenda 13</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -202,7 +200,7 @@ ___________
 ___________
 
 <div id='agenda14'>
-  <h2  style="color:orange; text-align:center">Agenda 14</h2>
+  <h2  style="color:grey; text-align:center">Agenda 14</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -212,7 +210,7 @@ ___________
 ___________
 
 <div id='agenda15'>
-  <h2  style="color:orange; text-align:center">Agenda 15</h2>
+  <h2  style="color:red; text-align:center">Agenda 15</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
@@ -222,7 +220,7 @@ ___________
 ___________
 
 <div id='agenda16'>
-  <h2  style="color:orange; text-align:center">Agenda 16</h2>
+  <h2  style="color:grey; text-align:center">Agenda 16</h2>
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   </p>
